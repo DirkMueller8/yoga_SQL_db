@@ -1,7 +1,9 @@
 # Database management with C# and ADO.NET
 
 **********************************************
-Software:		C# 
+Software:		C# (v7.3)
+
+.NET version:   4.7.2
 
 Version:    	0.1
 
@@ -9,7 +11,7 @@ Date: 			Oct 25, 2020
 
 Author:			Dirk Mueller 
 **********************************************
-This is a implementation taken directly from the excellent tutorial of Tim Corey. Here is the link to his youtube video: 
+This is an implementation adopted directly from the excellent tutorial of Tim Corey. Here is the link to his youtube video: 
 
 https://www.youtube.com/watch?v=Et2khGnrIqc&t=293s/ 
 
@@ -26,6 +28,12 @@ It covers the following concepts:
 5. Reading from a database by a search term for a particular column in T-SQL
 6. Writing to (INSERT) the database in T-SQL
 
+The SQL table looks like this (from SQL Server Management Studio):
+
+![](https://github.com/DirkMueller8/yoga_SQL_db/blob/master/screenshot_definition.png)
+
+*Fig 1: SQL table tracking my yoga sessions (left) and table column definition (right)*
+
 ![](https://github.com/DirkMueller8/yoga_SQL_db/blob/master/screenshot.png)
 
-*Fig 1: WinFrom snapshot of the GUI to insert search word (date) and to input a new yoga session into the SQL db.*
+*Fig 2: WinFrom snapshot of the GUI to insert search term (date) and to input a new yoga session into the SQL db.*
