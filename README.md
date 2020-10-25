@@ -37,3 +37,7 @@ The SQL table looks like this (in SQL Server Management Studio):
 ![](https://github.com/DirkMueller8/yoga_SQL_db/blob/master/screenshot.png)
 
 *Fig 2: WinFrom snapshot of the GUI to insert search term (date) and to input a new yoga session into the SQL db.*
+
+![](https://github.com/DirkMueller8/yoga_SQL_db/blob/master/stored_procedure.png)
+
+*Fig 3: Stored Procedure object in the SQL db, serving as interface between C# and the SQL db.*
