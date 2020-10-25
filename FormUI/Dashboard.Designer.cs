@@ -47,6 +47,7 @@
             this.txtS_2_2 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.txtS_2_1 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lstSessionsFound
@@ -59,7 +60,7 @@
             // 
             // txtDateQuery
             // 
-            this.txtDateQuery.Location = new System.Drawing.Point(176, 26);
+            this.txtDateQuery.Location = new System.Drawing.Point(181, 46);
             this.txtDateQuery.Name = "txtDateQuery";
             this.txtDateQuery.Size = new System.Drawing.Size(100, 20);
             this.txtDateQuery.TabIndex = 1;
@@ -67,7 +68,7 @@
             // lblDate
             // 
             this.lblDate.AutoSize = true;
-            this.lblDate.Location = new System.Drawing.Point(75, 29);
+            this.lblDate.Location = new System.Drawing.Point(80, 49);
             this.lblDate.Name = "lblDate";
             this.lblDate.Size = new System.Drawing.Size(87, 13);
             this.lblDate.TabIndex = 2;
@@ -149,7 +150,7 @@
             // 
             // insertRecordButton
             // 
-            this.insertRecordButton.Location = new System.Drawing.Point(334, 337);
+            this.insertRecordButton.Location = new System.Drawing.Point(284, 377);
             this.insertRecordButton.Name = "insertRecordButton";
             this.insertRecordButton.Size = new System.Drawing.Size(75, 23);
             this.insertRecordButton.TabIndex = 12;
@@ -205,11 +206,22 @@
             this.txtS_2_1.Size = new System.Drawing.Size(100, 20);
             this.txtS_2_1.TabIndex = 13;
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(78, 13);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(160, 18);
+            this.label8.TabIndex = 19;
+            this.label8.Text = "Flow Yoga database";
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(516, 411);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtS_2_3);
             this.Controls.Add(this.label6);
@@ -257,6 +269,7 @@
         private System.Windows.Forms.TextBox txtS_2_2;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtS_2_1;
+        private System.Windows.Forms.Label label8;
     }
 }
 

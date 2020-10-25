@@ -11,3 +11,16 @@ C:\Users\Dirk2\source\repos\SQLDataAccess\FormUI\bin\Debug\Dapper.xml
 C:\Users\Dirk2\source\repos\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.CopyComplete
 C:\Users\Dirk2\source\repos\SQLDataAccess\FormUI\obj\Debug\FormUI.exe
 C:\Users\Dirk2\source\repos\SQLDataAccess\FormUI\obj\Debug\FormUI.pdb
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\bin\Debug\FormUI.exe
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\bin\Debug\FormUI.pdb
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\bin\Debug\Dapper.dll
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\bin\Debug\Dapper.xml
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.exe
+C:\Users\Dirk2\udacity-git-course\new-git-project\SQLDataAccess\FormUI\obj\Debug\FormUI.pdb
